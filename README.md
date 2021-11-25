@@ -1,9 +1,20 @@
 # restart-chc
 In the end I am maintaining Ara Moodle to indicate topics covered, homework and planning.  This technique ensures all Ara Re/Start students, backup-tutors and career tutors can view:  https://moodle.ara.ac.nz/course/view.php?id=14535&section=5#tabs-tree-start
 
-Here's a copy
+**Here's a copy**
 
-Day Two @Ara: Topic Coverage
+**Day One @Ara: Topic Coverage**
+Tutor Intro
+What is AWS Re/Start?
+NZQA Course Descriptors
+Re/Start @Ara Calendar
+Day One Set-Ups
+  Tour of Ara Campus and facilities
+  Security Cards
+  Includes Techlabs logins; Re/Start CAnvas; VitalSource Bookshelf; GitHub; Discord; Moodle
+  Tomorrow we will learn about VMWare
+
+**Day Two @Ara: Topic Coverage**
 In Class:
 
 Recap Day-One Setups (see Slides: Days 1 & 2)
@@ -23,7 +34,7 @@ Finish Reading Module: Basic Computing Concepts
 Complete Knowledge Check for Basic Computing Concepts
 Exit Tickets: Days 1-3
 
-Day Three @Ara: Topic Coverage (Delivered)
+**Day Three @Ara: Topic Coverage (Delivered)**
 Presentation
 Basic Computing Concepts (recap and Qs)
 Dev Team Roles & KC (includes homework)
@@ -48,7 +59,7 @@ Please ensure you investigate to find interesting documentation information rele
 
 We will report back on Monday.  In 3-5 minutes, please tell which AWS document type you referred to (eg: How To, White Paper, Reference Manual ...), and tell us something interesting you discovered about your topic.  You can use PPT, web or demo - I can Remote Desktop to your machine so it goes on the big-screen.
 
-Day Four @Ara: Topic Coverage
+**Day Four @Ara: Topic Coverage**
 Previous Homework
 AWS Pricing and Knowledge Check
 Topics Friday 19 November
@@ -58,7 +69,7 @@ Torrents: Pair-to-Pair Distribution  <<<
 AWS Services and Categories  <<<
 AWS Shared Responsibility Model & Self Study  <<<
 
-Week 2, D1 @Ara: Topics, Labs and Homework
+**Week 2, D1 @Ara: Topics, Labs and Homework**
 Theory
 Video: S3 Demo & Self Study 
 S3 Knowledge Check
@@ -76,7 +87,7 @@ Each topic has accompanying Knowledge Checks which must be done for homework.
 
 Most topics have an accompanying Lab, many of which were done in class.  If a lab is not done in class - it becomes homework.  Please complete labs.
 
-Week 2, D2 @Ara: Topics, Labs and Homework
+**Week 2, D2 @Ara: Topics, Labs and Homework**
 Theory and Labs
 Intro to Linux, 
 Lab: Linux Intro
@@ -92,7 +103,7 @@ KC Command Line
 KC Users/ Groups
 KC Editing Files
 
-Week 2, D3 @Ara: Topics, Labs and Homework
+**Week 2, D3 @Ara: Topics, Labs and Homework**
 Recap
 Editing Files in Linux
 Working with the Linux File System
@@ -102,7 +113,7 @@ Each topic has accompanying Knowledge Checks which must be done for homework.
 
 Most topics have an accompanying Lab, many of which were done in class.  If a lab is not done in class - it becomes homework.  Please complete labs.
 
-Week 2, D4 @Ara: Topics, Labs and Homework
+**Week 2, D4 @Ara: Topics, Labs and Homework**
 Careers Topic One:
 
 Career Planning 
@@ -116,5 +127,4 @@ Managing Linux Services
 
 
 Each topic has accompanying Knowledge Checks which must be done for homework.
-
 Most topics have an accompanying Lab, many of which were done in class.  If a lab is not done in class - it becomes homework.  Please complete labs.
