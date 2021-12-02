@@ -128,3 +128,34 @@ Managing Linux Services
 
 Each topic has accompanying Knowledge Checks which must be done for homework.
 Most topics have an accompanying Lab, many of which were done in class.  If a lab is not done in class - it becomes homework.  Please complete labs.
+
+
+Day 1 - Wk3
+Theory
+  Modules 31-34
+  Managing Linux Networking
+  Linux Software Management
+Each topic has accompanying Knowledge Checks which must be done for homework.
+
+Most topics have an accompanying Lab, many of which were done in class.  If a lab is not done in class - it becomes homework.  Please complete labs.
+
+Day 2 - Wk3
+Theory
+  Modules 37-40
+  Working with Linux Commands
+  Linux Bash Shell
+Suggested Homework
+  Modules 41-42
+  Linux Bash Shell Scripts
+
+Day 3 - Wk3
+Theory
+  Modules 43-50 - IP Networking
+Suggested Homework and Helpful Resources
+  Subnetting Quiz!
+  David Bombal Video on Subnetting
+  Subnetting Calculator
+  Subnetting Cheat Sheet
+  Private IP Address Ranges (refer to section 3)
+Student Sourced Resources
+  Subnetting Made Simple
