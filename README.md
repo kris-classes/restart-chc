@@ -3,6 +3,7 @@ In the end I am maintaining Ara Moodle to indicate topics covered, homework and 
 
 **Here's a copy**
 
+**Weeks 1 and 2 - Shayle Tasker**
 **Day One @Ara: Topic Coverage**
 Tutor Intro
 What is AWS Re/Start?
@@ -129,8 +130,8 @@ Managing Linux Services
 Each topic has accompanying Knowledge Checks which must be done for homework.
 Most topics have an accompanying Lab, many of which were done in class.  If a lab is not done in class - it becomes homework.  Please complete labs.
 
-
-Day 1 - Wk3
+**Week 3 - Darbid Hatherley**
+**Day 1 - Wk3**
 Theory
   Modules 31-34
   Managing Linux Networking
@@ -139,7 +140,7 @@ Each topic has accompanying Knowledge Checks which must be done for homework.
 
 Most topics have an accompanying Lab, many of which were done in class.  If a lab is not done in class - it becomes homework.  Please complete labs.
 
-Day 2 - Wk3
+**Day 2 - Wk3**
 Theory
   Modules 37-40
   Working with Linux Commands
@@ -148,7 +149,7 @@ Suggested Homework
   Modules 41-42
   Linux Bash Shell Scripts
 
-Day 3 - Wk3
+**Day 3 - Wk3**
 Theory
   Modules 43-50 - IP Networking
 Suggested Homework and Helpful Resources
