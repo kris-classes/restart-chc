@@ -171,3 +171,71 @@ Suggested Homework and Helpful Resources
   Private IP Address Ranges (refer to section 3)
 Student Sourced Resources
   Subnetting Made Simple
+  
+**Day 4 - Wk3**
+Theory
+  Modules 43-50 - IP Networking CONTINUED.
+  Modules 51-52 - Virtual Private Cloud
+Suggested Homework and Helpful Resources
+  Subnetting Quiz!
+  David Bombal Video on Subnetting
+  Subnetting Calculator
+  Subnetting Cheat Sheet
+  Private IP Address Ranges (refer to section 3)
+Student Sourced Resources
+  Subnetting Made Simple
+  
+
+**Week 4 Day 1: **
+
+TCP/UDP protocols
+Introduction to Network Security
+Threat Mitigation
+Emerging Network Technologies
+75 Lab Connecting to Vocareum Cloud Labs
+Network Discovery slides
+Started 78 Lab Interpret Scanning results
+***had trouble with Wireshark spitting out SCREEEEEDS of ACK and PSH,ACK packets.  I don't know where they're coming from.  -Matt
+
+**Week 4 Day 2**
+FOR HOMEWORK:
+
+Data Security slides
+81 KC Prevention Systems Hardening
+83 KC Prevention Security architecture
+Week 4 Day 2: 
+
+Hardening Web Servers and Workstations slides
+ibid. lab.
+Network Security Architecture slides
+AWS Security Groups notes
+82 LAB Security Architecture lab doesn't work.
+
+**Wk 4 Day 3**
+
+Achieved in-Class
+
+  Review of recent topic coverage and gaps
+  Authentication Authorisation Accounting
+  Symmetric and Asymmetric Keys   ....   Public /Private Keys
+  IPsec ISAKMP IKE
+  Certificates
+  Public Key Infrastructure
+  Lab: Configure a PKI  (there was an issue with certificate already being expired, so had to back-date the OS.  In some cases this meant needing to re-request the certificate).
+  This lab is ideally achieved by back-dating all OS systems before starting the lab.
+  Update tips or demo video has been requested.
+  Identity Management
+  AWS IAM (Identity and Access Management)
+
+Note
+
+  Bash Shell Scripting review requested by some students (although some feel confident)
+  maybe a video would address this need
+
+Homework
+
+  Complete PKI Lab (if possible.  See tips on expired cert issues, as noted above)
+  Knowledge Check PKI
+  Knowledge Check Identity Management
+  IAM Lab
+  Knowledge Check IAM
