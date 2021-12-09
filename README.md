@@ -186,7 +186,7 @@ Student Sourced Resources
   Subnetting Made Simple
   
 
-**Week 4 Day 1: **
+**Week 4 Day 1**
 
 TCP/UDP protocols
 Introduction to Network Security
