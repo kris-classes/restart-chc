@@ -239,3 +239,12 @@ Homework
   Knowledge Check Identity Management
   IAM Lab
   Knowledge Check IAM
+  
+**Wk 4 Day 4**
+  
+**Careers Topic**
+  9 Dec 1pm: Personal Branding | Elevator Pitch
+  
+**Guest Speaker (Eddie Correia)**
+  IT Industry in general terms (as Careers follow-up)
+  AWS Identity and Access Management 
