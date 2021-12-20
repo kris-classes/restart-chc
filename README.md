@@ -284,9 +284,13 @@ _Labs_
 _Homework_
 
 Start reading Python Slides
+
 Set up Github account and set up Personal Access Code: Steps to set up code
+
 Set up SSH keys for Github (can log in and update repos without Personal Access Codes - useful to set up on home PC) Set up steps here
+
 Tips on how to use git push and git pull: Video here 
+
 Configuring remote repositories. 
 
 **Wk 5 Day 3**
