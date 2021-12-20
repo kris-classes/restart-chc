@@ -5,7 +5,7 @@ In the end I am maintaining Ara Moodle to indicate topics covered, homework and 
 
 **Weeks 1 and 2 - Shayle Tasker**
 
-**Day One @Ara: Topic Coverage**
+**Wk 1 Day 1 @Ara: Topic Coverage**
 
 Tutor Intro
 What is AWS Re/Start?
@@ -17,7 +17,7 @@ Day One Set-Ups
   Includes Techlabs logins; Re/Start CAnvas; VitalSource Bookshelf; GitHub; Discord; Moodle
   Tomorrow we will learn about VMWare
 
-**Day Two @Ara: Topic Coverage**
+**Wk 1 Day 2 @Ara: Topic Coverage**
 
 In Class:
 
@@ -37,7 +37,7 @@ Your Homework:
   Complete Knowledge Check for Basic Computing Concepts
   Exit Tickets: Days 1-3
 
-**Day Three @Ara: Topic Coverage (Delivered)**
+**Wk 1 Day 3 @Ara: Topic Coverage (Delivered)**
 
 Presentation
   Basic Computing Concepts (recap and Qs)
@@ -63,7 +63,7 @@ Please ensure you investigate to find interesting documentation information rele
 
 We will report back on Monday.  In 3-5 minutes, please tell which AWS document type you referred to (eg: How To, White Paper, Reference Manual ...), and tell us something interesting you discovered about your topic.  You can use PPT, web or demo - I can Remote Desktop to your machine so it goes on the big-screen.
 
-**Day Four @Ara: Topic Coverage**
+**Wk 1 Day 4 @Ara: Topic Coverage**
 
 Previous Homework
   AWS Pricing and Knowledge Check
@@ -74,7 +74,7 @@ Topics Friday 19 November
   AWS Services and Categories  <<<
   AWS Shared Responsibility Model & Self Study  <<<
 
-**Week 2, D1 @Ara: Topics, Labs and Homework**
+**Wk 2 Day 1 @Ara: Topics, Labs and Homework**
 
 Theory
   Video: S3 Demo & Self Study 
@@ -93,7 +93,7 @@ Theory
 
 Most topics have an accompanying Lab, many of which were done in class.  If a lab is not done in class - it becomes homework.  Please complete labs.
 
-**Week 2, D2 @Ara: Topics, Labs and Homework**
+**Wk 2 Day 2 @Ara: Topics, Labs and Homework**
 
 Theory and Labs
   Intro to Linux, 
@@ -110,7 +110,7 @@ Homework - Knowledge Checks
   KC Users/ Groups
   KC Editing Files
 
-**Week 2, D3 @Ara: Topics, Labs and Homework**
+**Wk 2 Day 3 @Ara: Topics, Labs and Homework**
 
 Theory
   Recap
@@ -122,7 +122,7 @@ Theory
 
 Most topics have an accompanying Lab, many of which were done in class.  If a lab is not done in class - it becomes homework.  Please complete labs.
 
-**Week 2, D4 @Ara: Topics, Labs and Homework**
+**Wk 2 Day 4 @Ara: Topics, Labs and Homework**
 
 Careers Topic One:
   Career Planning 
@@ -139,7 +139,7 @@ Most topics have an accompanying Lab, many of which were done in class.  If a la
 
 **Week 3 - Darbid Hatherley**
 
-**Day 1 - Wk3**
+**Wk3 Day 1**
 
 Theory
   Modules 31-34
@@ -149,7 +149,7 @@ Each topic has accompanying Knowledge Checks which must be done for homework.
 
 Most topics have an accompanying Lab, many of which were done in class.  If a lab is not done in class - it becomes homework.  Please complete labs.
 
-**Day 2 - Wk3**
+**Wk3**
 
 Theory
   Modules 37-40
