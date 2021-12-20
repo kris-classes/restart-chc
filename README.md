@@ -248,3 +248,44 @@ Homework
 **Guest Speaker (Eddie Correia)**
   IT Industry in general terms (as Careers follow-up)
   AWS Identity and Access Management 
+
+**Wk 5 Day 1** 
+
+_Theory_
+
+Detection
+
+_Labs_
+
+94-[SF]-Lab - Detect malware
+95-[SF]-Lab - Social engineering
+96-[SF]-Lab - Penetration testing
+
+_Homework_
+
+AWS Cloudtrail
+98-[SF]-KC - AWS CloudTrail
+AWS Config
+99-[SF]-KC - AWS Config
+
+**Wk 5 Day 2**
+
+_Theory_
+
+Response
+Analysis
+Introduction to Git
+
+_Labs_
+
+100-[SF]-Lab - Incident response
+102-[SF]-Lab - Monitor a system
+
+_Homework_
+
+Start reading Python Slides
+Set up Github account and set up Personal Access Code: Steps to set up code
+Set up SSH keys for Github (can log in and update repos without Personal Access Codes - useful to set up on home PC) Set up steps here
+Tips on how to use git push and git pull: Video here 
+Configuring remote repositories. 
+
