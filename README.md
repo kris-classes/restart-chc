@@ -289,3 +289,35 @@ Set up SSH keys for Github (can log in and update repos without Personal Access 
 Tips on how to use git push and git pull: Video here 
 Configuring remote repositories. 
 
+**Wk 5 Day 3**
+
+_Theory_
+
+Introduction to Python Programming PT1 
+
+_Labs_
+
+224-[PF]-Lab - Python Labs Cloud9
+
+_Homework_
+
+Python Documentation
+
+**Wk 5 Day 4**
+
+_Theory_
+
+Introduction to Python Programming Part 2
+
+_Labs_
+
+224-[PF]-Lab - Python Labs Cloud9
+
+_Homework_
+
+Python Documentation
+Links for setting up pycharm-community on CentOS/Fedora, follow link to install:
+https://flathub.org/apps/details/com.jetbrains.PyCharm-Community
+
+To install on Ubuntu:
+snap install pycharm-community
